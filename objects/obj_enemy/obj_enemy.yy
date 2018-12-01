@@ -73,7 +73,21 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "30",
-            "varName": "hitPoint",
+            "varName": "hit_point",
+            "varType": 1
+        },
+        {
+            "id": "02924045-6f11-4a61-9148-8411d2b05336",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "25",
+            "varName": "depth",
             "varType": 1
         }
     ],

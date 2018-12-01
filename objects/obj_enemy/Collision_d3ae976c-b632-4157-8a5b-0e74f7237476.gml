@@ -1,6 +1,6 @@
-hitPoint -= 1;
+hit_point -= 1;
 
-if (hitPoint == 0) {
+if (hit_point == 0) {
 	instance_destroy();
 }
 

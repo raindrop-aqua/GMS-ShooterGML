@@ -51,7 +51,36 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "921be4ec-78a9-456f-8ab4-45c83885dd72",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "20",
+            "varName": "depth",
+            "varType": 1
+        },
+        {
+            "id": "8cad35ea-6e5a-4a63-920e-72ce8fe4c4f0",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "20",
+            "varName": "speed",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "79d0b19f-95a0-40dd-b8c9-c320b8c041f4",
     "visible": true

@@ -25,7 +25,7 @@
             "m_owner": "5515ece7-5705-4734-93c0-2665712a2ccf"
         },
         {
-            "id": "6c6e13fb-cf9b-46d9-bef5-5df8dab25da6",
+            "id": "b1f78015-ade4-4a67-9376-75637166eb21",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -51,7 +51,36 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "ef78386f-a914-492c-9d31-559f4520c9a2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "20",
+            "varName": "depth",
+            "varType": 1
+        },
+        {
+            "id": "e596fe8a-2c7b-48b7-960d-350bdc8377c3",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "-2",
+            "varName": "speed",
+            "varType": 1
+        }
+    ],
     "solid": false,
     "spriteId": "4147cd24-6e2e-46b5-b52a-dfd337aafc09",
     "visible": true
