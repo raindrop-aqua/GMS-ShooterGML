@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "314c4e9f-beea-42e9-b788-8736c65bf28f",
+            "Value": {
+                "id": "ad3c98e1-e06c-4375-bcaa-d664b96b9c55",
+                "resourcePath": "objects\\obj_enemy_radish\\obj_enemy_radish.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "347c570a-7ace-47ae-b112-0ea92ae5a631",
             "Value": {
                 "id": "51bc4ff1-cb2d-4409-b477-a63b27a9a2b6",
@@ -319,6 +327,22 @@
             }
         },
         {
+            "Key": "a7edc2fa-7cc2-42be-87d8-e7d69ff981c1",
+            "Value": {
+                "id": "e28ef687-d24b-498d-8131-d934636b9a9e",
+                "resourcePath": "objects\\obj_enemy_5box\\obj_enemy_5box.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "ae1c2965-8453-4742-9866-23e4ea95b1e2",
+            "Value": {
+                "id": "9630fd1e-7b7f-46ab-a7fb-a0eee7958b9b",
+                "resourcePath": "sprites\\spr_5box\\spr_5box.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bceb2ee4-701b-4782-a753-7ee383ba40d7",
             "Value": {
                 "id": "ca3e2b46-b3d9-45f8-ae45-b2dbb76a092d",
@@ -332,6 +356,14 @@
                 "id": "5be59875-8378-4740-b382-761ea7278874",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d0dd5126-20ae-4ce1-aa5f-73ec976a0dbf",
+            "Value": {
+                "id": "3bc19626-bd90-4868-94ba-97648faca9dc",
+                "resourcePath": "sprites\\spr_radish\\spr_radish.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

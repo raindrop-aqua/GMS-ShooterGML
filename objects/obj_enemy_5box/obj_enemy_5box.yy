@@ -1,18 +1,18 @@
 {
-    "id": "bceb2ee4-701b-4782-a753-7ee383ba40d7",
+    "id": "a7edc2fa-7cc2-42be-87d8-e7d69ff981c1",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_enemy_tako",
+    "name": "obj_enemy_5box",
     "eventList": [
         {
-            "id": "bf5b803b-f6d8-4e8f-ab2f-656eb297adc1",
+            "id": "37d83a6f-dd74-47a0-a56a-24c7b34dcaa8",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 2,
-            "m_owner": "bceb2ee4-701b-4782-a753-7ee383ba40d7"
+            "m_owner": "a7edc2fa-7cc2-42be-87d8-e7d69ff981c1"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -33,7 +33,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "a4407c25-24ac-4d11-a929-27db324c6964",
+            "id": "3026c2fd-1ec5-4bb5-b0e5-a0a902911421",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -42,12 +42,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "15",
-            "varName": "depth",
-            "varType": 0
+            "value": "0",
+            "varName": "battery_direction",
+            "varType": 1
         }
     ],
     "solid": false,
-    "spriteId": "374fb074-ea4b-44df-8b50-9787f5247faa",
+    "spriteId": "ae1c2965-8453-4742-9866-23e4ea95b1e2",
     "visible": true
 }
