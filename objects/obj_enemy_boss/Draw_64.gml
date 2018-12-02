@@ -1,1 +1,1 @@
-draw_text(x - 64, y - 64, hit_point);
+draw_text(x - 48, y - 48, hit_point);

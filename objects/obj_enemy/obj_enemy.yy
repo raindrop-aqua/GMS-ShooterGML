@@ -109,6 +109,20 @@
             "value": "25",
             "varName": "depth",
             "varType": 0
+        },
+        {
+            "id": "bd752540-3b10-45f2-a744-430663ba5ca9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0.1",
+            "varName": "friction",
+            "varType": 0
         }
     ],
     "solid": false,

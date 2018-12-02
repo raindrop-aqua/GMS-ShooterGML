@@ -1,4 +1,4 @@
-draw_text(8, 40, instance_count);
+draw_text(8, 40, instance_number(obj_shot));
 
 if (instance_number(obj_player) == 0) {
 	draw_set_halign(fa_center);
@@ -10,14 +10,9 @@ if (instance_number(obj_player) == 0) {
 		room_width/2, 250, 
 		">>> PRESS SPACE TO TITLE <<<");
 	draw_set_halign(fa_left);
-}
-
-if (instance_number(obj_enemy_boss) == 0) {
+} else if (instance_number(obj_enemy_boss) == 0) {
 	instance_destroy(obj_bullet);
 	instance_destroy(obj_enemy);
-	instance_destroy(obj_enemy_tako);
-	instance_destroy(obj_enemy_5box);
-	instance_destroy(obj_enemy_radish);
 
 	draw_set_halign(fa_center);
 	draw_text_transformed_color(
