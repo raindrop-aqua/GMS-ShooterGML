@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "1cf81ea9-1580-4322-97f9-44028efa79f7",
+            "Value": {
+                "id": "bdd2a5e9-e94a-4813-9ade-b29e9ab3a2ef",
+                "resourcePath": "objects\\obj_enemy_boss\\obj_enemy_boss.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2314f3db-0494-4068-8812-89fd3e273e2e",
             "Value": {
                 "id": "b1a5bc83-ad9c-4275-ad55-e2ede998738f",
@@ -396,6 +404,14 @@
                 "id": "dd50c822-a3b7-4775-b065-c81caf69d784",
                 "resourcePath": "rooms\\rm_title\\rm_title.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "ddb3448b-78f4-4d6e-bb67-70ae5b40a90f",
+            "Value": {
+                "id": "d5eb6104-b051-403b-b4f9-1821ec64d784",
+                "resourcePath": "sprites\\spr_pudding\\spr_pudding.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
